@@ -1,5 +1,17 @@
 # 💫 About Me:
-Sou Leonardo da costa sousa amante da tecnologia por isso resolvi me tornar um Programador. Na programação tenho sólidos conhecimentos de Front end com tecnologias como: <br><br>- HTML, CSS, JavaScript, ReactJs, Angular inclusive realizei alguns projetos utilizando as tecnologias supracitadas.<br><br>Próximos passos: Buscar sólidos conhecimentos em Back end e realizar projetos de qualidade e alta performance com NodeJs e banco de dados.
+Sou Leonardo Analista de Dados apaixonado por transformar números em insights acionáveis. Com experiência em análise de dados, tratamento de dados e visualização, estou preparado para ajudar a empresa a tomar decisões estratégicas fundamentadas em dados. Minhas habilidades incluem:
+
+- Análise de dados para identificar tendências, padrões e oportunidades de melhoria.
+- Criação de visualizações claras e intuitivas para comunicar insights de forma eficaz.
+- Colaboração com equipes interdisciplinares para entender as necessidades de negócios e desenvolver soluções orientadas a dados.
+Experiências:
+ - Power Query.
+ - DAX.
+ - Power BI.
+ - Modelagem de Dados.
+ - SQL.
+
+Estou comprometido em impulsionar o sucesso da empresa através da análise de dados de alta qualidade e do desenvolvimento de soluções inovadoras. Vamos trabalhar juntos para transformar dados em resultados tangíveis.
 
 
 ## 🌐 Socials:
