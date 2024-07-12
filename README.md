@@ -5,11 +5,15 @@ Sou Leonardo Analista de Dados apaixonado por transformar números em insights a
 - Criação de visualizações claras e intuitivas para comunicar insights de forma eficaz.
 - Colaboração com equipes interdisciplinares para entender as necessidades de negócios e desenvolver soluções orientadas a dados.
 Experiências:
+
+ - Power BI.
+ - ETL.
  - Power Query.
  - DAX.
- - Power BI.
  - Modelagem de Dados.
+ - DataViz.
  - SQL.
+ - Python.
 
 Estou comprometido em impulsionar o sucesso da empresa através da análise de dados de alta qualidade e do desenvolvimento de soluções inovadoras. Vamos trabalhar juntos para transformar dados em resultados tangíveis.
 
